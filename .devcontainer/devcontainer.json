@@ -1,0 +1,19 @@
+
+{
+  "name": "ab-pmjay-claims-project",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",//everytime uses the same versions...possible because of devcontainers/..
+
+  "features": {//allows doccer to run without running it fully! 
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "postCreateCommand": "pip install --upgrade pip",
+
+  "customizations": {
+    "vscode": {//tells  Instructs the system that the underlying configurations apply specifically to the Visual Studio Code editor interface.
+      "extensions": [//contains the unique identifier
+        "ms-python.python",
+        "ms-ossdata.vscode-postgresql"
+      ]
+    }
+  }
+}

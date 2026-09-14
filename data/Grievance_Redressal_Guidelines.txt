@@ -1,0 +1,966 @@
+AYUSHMAN BHARAT PRADHAN MANTRIJAN AROGYA YOJANA (AB PM-JAY)
+Grievance Redressal Guidelines
+December 2021
+
+GRIEVANCE REDRESSAL SYSTEMGrievance Redressal Guidelines
+AYUSHMAN BHARAT PRADHAN MANTRI JAN AROGYA
+YOJANA (AB PM-JAY)
+December 2021
+
+GRIEVANCE REDRESSAL SYSTEMCONTENTS
+EXECUTIVE SUMMARY ..................................................................................................... 4
+1.
+INTRODUCTION............................................................................................................ 5
+2.
+OBJECTIVES OF THE GRIEVANCE REDRESSAL SYSTEM .............................. 5
+3.
+GRIEVANCE TYPES AND WHO CAN FILE GRIEVANCES ................................. 5
+4.
+GRIEVANCE REDRESSAL STRUCTURE AND AUTHORITIES .......................... 6
+4.1 DISTRICT GRIEVANCE REDRESSAL COMMITTEE ....................................... 6
+4.2 STATE GRIEVANCE REDRESSAL COMMITTEE ............................................. 8
+
+4.3 STATE APPELLATE AUTHORITY ........................................................................ 94.4 NATIONAL GRIEVANCE REDERSSAL COMMITTEE .................................. 10
+4.5 GREVANCE OFFICER …………………………………………...………………11
+5.
+MEETING SCHEDULE OF COMMITTEES ............................................................ 12
+6.
+LODGING AND REGISTRATION OF GRIEVANCES .......................................... 13
+7.
+GRIEVANCE REDRESSAL MECHANISMS ........................................................... 14
+7.1 PROCESS FOR REDRESSAL DIRECTLY BY DGNO/SGNO........................... 14
+7.2 PROCESS OF REDRESSAL THROUGH THE RELEVANT GRIEVANCE
+
+COMMITTEE ............................................................................................................ 158.
+COMPLIANCE WITH ORDERS OF GRIEVANCE REDRESSAL
+COMMITTEES.............................................................................................................. 16
+9.
+MODE OF COMMUNICATION ................................................................................. 16
+10. AUTO-ESCALATION OF GRIEVANCES ................................................................ 17
+11. REPORTING ................................................................................................................. 17
+
+12. MONITORING .............................................................................................................. 17ANNEXURE 1 ........................................................................................................................ 19
+GRIEVANCE REDRESSAL MATRIX .............................................................................. 19
+ANNEXURE 1 ........................................................................................................................ 27
+DEFINITIONS ....................................................................................................................... 27
+
+ANNEXURE 2 ........................................................................................................................ 29ABBREVIATIONS AND ACRONYMS .............................................................................. 29
+
+GRIEVANCE REDRESSAL SYSTEMExecutive Summary
+The National Health Authority has developed the Central Grievance Redressal Management
+System (CGRMS) to register, monitor and dispose of grievances under AB PM-JAY
+transparently and effectively. Grievance Redressal under AB PM-JAY has a multi-tier system
+at District, State, and National Level. District Grievance Redressal Committee (DGRC) is the
+nodal authority at the district level, State Grievance Redressal Committee (SGRC), State
+Appellate Authority (SAA) at the state level and National Grievance Redressal Committee at
+National level for redressal of the grievances. State Appellate Authority (SAA) shall be the final
+
+appellate authority for handling and resolution of all grievances received either directly orescalated through the SGRC. Monthly meeting  of respective committees at District and State
+level shall take place to ensure timely redressal of grievances. At each level, there is a dedicated
+nodal officer viz. District Grievance Nodal Officer (DGNO), State Grievance Nodal Officer
+(SGNO) and National Grievance Nodal Officer (NGNO).
+To support this structure, an IT-enabled and web-based grievance redressal system has been
+developed which enables a person to register a grievance and the nodal officer to view the
+details of registered grievances on the portal- https://grievance.pmjay.gov.in or
+
+https://cgrms.pmjay.gov.in .The nodal officers are responsible to resolve grievances as per the defined turn-around time.
+Complainants can track the status of their grievance using the Unique Grievance Number which
+is generated at the time of registration. The status update will be intimated to the complainant
+through automated e-mail system and SMS notification. For efficient and timely redressal of
+the grievances, automated intimation is also enabled for the nodal officers through e-mail &
+SMS. The cases which are unresolved by the concerned nodal officer are automatically
+escalated to the higher authority. If any party is not satisfied with the decision of the concerned
+
+nodal officer or committee, the case is escalated directly to the next higher-level committee forfurther actions.
+This document describes the structure of the various committees, modes of grievance
+registration, mechanism of grievance redressal and reporting system. Additionally, the
+document also provides a matrix explaining types of grievances, escalation levels, and TAT
+(Turn Around Time) to ensure effective resolution of the grievances.
+
+GRIEVANCE REDRESSAL SYSTEM1. INTRODUCTION
+Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana is a flagship program of the
+Government which provides a cover up to Rs.5 lakh per family per year for secondary and
+tertiary care hospitalization to over 10.74 crore entitled beneficiary families listed in SECC
+2011 data set. The benefits are available free of cost at an empaneled public or private
+hospital in cashless and paperless manner, portable across India.
+National Health Agency (NHA) is the Nodal Agency mandated to implement AB PM-JAY
+across India and address the disputes and grievances of the beneficiaries, healthcare
+providers and other stakeholders in a transparent and time bound manner.
+
+NHA has established an effective multi-tiered redressal mechanism via Central GrievanceRedressal Management System (CGRMS) and Grievance Redressal Guidelines, and it is
+the sole authority for any subsequent amendments to Guidelines.
+2. OBJECTIVES OF THE GRIEVANCE REDRESSAL SYSTEM
+To ensure that grievances of all stakeholders are redressed within the time frame mentioned
+in the Grievance Guidelines up to the satisfaction of the aggrieved party based on the
+principles of natural justice while ensuring that cashless access to timely and quality care
+to remains uncompromised
+3. GRIEVANCE TYPES AND WHO CAN FILE GRIEVANCES
+
+3.1 Grievances can be filed by any stakeholder, for this purpose, a stakeholder includes:a. AB PM-JAY Beneficiary
+b. Healthcare Provider
+c. Insurer or its employees
+d. Implementation Support Agency (ISA) or its employees
+e. State Health Agency (SHA) or its employees or nominated functionaries for
+implementation of the Scheme; and
+f. Any other person
+
+GRIEVANCE REDRESSAL SYSTEM3.2 Any person who may have observations, comments or feedback on any aspect of the
+Scheme, may also file a complaint along with specific details. Vague comments/feedback
+which are not actionable shall not be entertained/accepted
+3.3 Illustrative and indicative list of grievances is given in the Grievance Redressal Matrix
+(refer to Annexure 1 in this document)
+4. GRIEVANCE REDRESSAL STRUCTURE AND AUTHORITIES
+AB PM-JAY has a multi-tier grievance redressal structure to ensure timely redressal of
+grievances. This section of the guidelines lays down these structures, their constitution,
+and functions.
+4.1 District Grievance Redressal Committee
+
+A District Grievance Redressal Committee (DGRC) should be constituted by theSHA in each district
+4.1.1 Constitution of the DGRC:
+a. Head of the District or District Magistrate or District Collector or Deputy
+Commissioner shall be the Chairperson of the DGRC
+b. Chief Executive Officer or District Development Officer  or ADC/ADM
+(Development) in-charge of Zilla Panchayat
+c. The Chief Medical Officer of the district shall be the Convener
+d. District Coordinator of the Insurer (in case of insurance mode)
+e. District Grievance Nodal Officer (DGNO)
+f. Other experts for specific cases as determined by the Chairperson or the
+Convenor on behalf of the Chairperson
+4.1.2 Functions of the DGRC:
+
+The DGRC shall perform all functions related to handling and resolution ofgrievances
+within their respective districts. In general, day to day redressal of complaints should
+be done by DGNO. He need not wait for meeting of the DGRC to take place to initiate
+an enquiry or action, as expected in the case. He should however keep his authorities
+
+GRIEVANCE REDRESSAL SYSTEMinformed about the inquiry. Regular operational issues should be handled by him so
+that beneficiaries/hospitals/stakeholders do not face any inconvenience or problem.
+About serious complaints which warrant action against a person/institution, he
+should submit report including his observations to CMO and DGRC for
+decision/action.
+The specific functions of DGRC will include:
+a. Track and redress all grievances referred to it, following the principles of
+natural justice
+b. Call for additional information as and when required either directly from an
+aggrieved party or from the concerned agencies / individuals
+c. Conduct grievance redressal proceedings as required
+
+d. If required, call for hearings and representations from the parties concernedwhile determining the merits and demerits of a case
+e. Adjudicate and issue final orders on grievances
+f. In case of grievances that need urgent redressal, develop internal mechanisms
+for redressing the grievances within the shortest possible time, which could
+include, but not be limited to, convening special meetings of the DGRC
+g. Review grievance records
+h. Monitor the grievance database to ensure that all grievances are resolved within 30
+days or earlier stated as per the provisions of these guidelines or any amendments
+to the CGRMS Guidelines issued by the NHA and / or the SHA
+
+i. DGRC shall be competent to seek report or assistance of any authority in the districtto take suitable action as deemed appropriate
+j. Issue directions/take action like recommending de-empanelment of the hospitals,
+recommending suspension of license of a doctor/paramedic, etc. Principles of
+natural justice should be followed while taking such actions
+k. In case the DGRC can’t meet in foreseeable future, the Chairman or an officer
+authorized by him in this regard may take any of the above actions. However,
+such actions should be placed in front of the Committee during the next meeting
+for ratification
+l. Ensure compliance to the Grievance Redressal Guideline of AB PM-JAY
+
+GRIEVANCE REDRESSAL SYSTEM4.2 State Grievance Redressal Committee
+The State Grievance Redressal Committee (SGRC) should be constituted by the SHA at
+each state
+4.2.1 Constitution of the SGRC:
+a. CEO of SHA / State Nodal Agency (SNA) shall be the Chairperson of the
+SGRC
+b. The State Grievance Nodal Officer (SGNO) of the SHA shall be the Convenor of
+SGRC
+c. Representatives of the Departments of Rural Development, Women & Child
+Development, Labor, Tribal Welfare
+d. Director Health Services
+e. Medical Superintendent of the leading state level government hospital or the
+Dean of the leading medical college in the State
+f. Representative of Insurance Company (Applicable only where scheme is in
+
+Insurance or Mixed Mode)g. Other experts for specific cases as determined by the Chairperson or the Convenor
+on behalf of the Chairperson
+4.2.2 Functions of the SGRC:
+The SGRC shall perform all functions related to handling and resolution of all
+grievances received either directly or escalated through the DGRC. When beneficiary
+is the one of the parties the decision of the SGRC shall be final. The specific functions
+shall include:
+a. Act as an Appellate Authority for appealing against the orders of the DGRC
+b. Track and redress all grievances referred to it, following the principles of
+natural justice
+c. Call for additional information as required either directly from an aggrieved
+
+party or from the concerned agencies / individualsd. Conduct grievance redressal proceedings as required
+e. Nominate District Grievance Nodal Officer (DGNO) at each District
+f. Oversee grievance redressal functions of the DGRC including but not limited to
+monitoring the turnaround time for grievance redressal
+g. Perform all tasks necessary to decide on all such appeals within 30 days of
+
+GRIEVANCE REDRESSAL SYSTEMreceiving such appeal
+h. Adjudicate and issue final orders on grievances
+i. Ensure compliance to the Grievance Redressal Guideline of AB PM-JAY
+4.2.3 For any appeal escalated to the SGRC, the SGRC, at its sole discretion may assign
+the task of investigation of the grievance to the independent agency or any official.
+4.2.4 Complaints/grievances/appeals received against the orders of State Empanelment
+Committee as regards empanelment/de-empanelment shall be referred to State
+Appellate Authority for further action and disposal. These types of appeals/
+representations/etc. should be filed directly to State Appellate Authority.
+
+4.2.5 Complaints/grievances received against any of the officials of the SHA or State/UTGovernment shall be referred to the State Appellate Authority.
+4.3 State Appellate Authority
+Principal Secretary (Health) shall function as the State Appellate Authority (SAA) of the
+respective state.
+4.3.1 Functions of SAA
+The SAA shall perform all functions related to handling and resolution of all
+grievances received or escalated through the SGRC. The specific functions shall
+include:
+a) Act as an Appellate Authority for appeal against the orders of the SGRC
+b) Redressal of all grievances referred to it, following the principles of natural justice
+
+c) Call for additional information as required either directly from an aggrieved party orfrom the concerned agencies / individuals
+d) Oversee grievance redressal functions of the SGRC including but not limited to
+monitoring the turnaround time for grievance redressal
+e) Perform all tasks necessary to decide on all appeals received within 30 days
+f) Adjudicate and issue final orders on grievances
+g) For any appeal escalated to the SAA, the SAA may at its sole discretion assign the
+task of investigation of the grievance to the independent agency or any official if need
+be
+h) The decision of SAA shall be final and binding wherein SHA and Insurance
+Company/ISA/TPA are the aggrieved parties
+
+GRIEVANCE REDRESSAL SYSTEM4.4 National Grievance Redressal Committee
+The National Grievance Redressal Committee (NGRC) shall be formed by the Chief
+Executive Officer, National Health Authority at the national level.
+4.4.1. Constitution of the NGRC:
+a.
+The constitution of the NGRC shall be determined by the NHA in accordance with the
+Guidelines from time to time.
+b. Members for NGRC:
+i.
+Deputy CEO of National Health Authority (NHA) – Chairperson
+ii.
+Head Beneficiary Engagement Division (NHA) – Convenor
+iii.
+Representative of Finance Division (NHA)
+iv.
+Representative of IRDAI/ Member of General Insurance Corporation
+v.
+Other experts for specific cases as determined by the Chairperson or the
+
+Convenor on behalf of the Chairperson4.4.3 Functions of the NGRC:
+The NGRC shall act as the apex Authority and shall
+a. Review state-wise performance of the Grievance Redressal. Review may include but
+not be limited to analysis of monthly reports from the SHA and field visits for
+monitoring, evaluation and make suggestions for improvement in the system
+b. Provide need-based mentoring and capacity building support to the SGRCs
+c. Issue specific recommendations to the states/SHAs for corrective actions and process
+improvement based on state-wise review of grievance redressal data
+d. Issue amendments to the national grievance redressal guidelines as and when
+required
+
+e. NGRC shall ensure adequate and effective settlement of disputes only betweenInsurance Company / ISA / TPA and SHA, with respect to any deviation from ‘Terms
+& Conditions’ of the contract and NHA guidelines between the two parties or any act
+of omission or commission with respect to the contractual provision
+Grievances wherein EHCP or beneficiary are the one of the parties shall not be entertained by
+NGRC and decision of SAA shall be final and binding.
+
+GRIEVANCE REDRESSAL SYSTEMThe meetings of the NGRC shall be convened as per the cases received by it for consideration or
+as per the convenience of the Chairman, NGRC.
+For any appeal escalated to the NHA, the NHA may at its sole discretion assign the task of
+investigation of the grievance to the independent agency or relevant official if need be.
+4.5 Grievance Officer
+4.5.1 District Grievance Nodal Officer (DGNO)
+DGNO is a person who is nominated by SGRC to resolve the grievances at district level
+under PM-JAY. The roles and responsibilities of DGNO are as listed below:
+a. Addressing grievances of stakeholders directly or through DGRC within the timeframe
+defined
+
+b. Ratifying the actions taken against the grievances by placing in the DGRC from timeto time
+c. Enter the particulars of the grievance on the CGRMS portal received directly,
+telephonically, through letter, email or social media and updating the status in CGRMS
+d. Initiating enquiries wherever felt necessary with the approval of District Medical
+Officer/District Health Officer/Civil Surgeon or any other officer nominated
+e. Referring grievances to convener of DGRC
+f. Forwarding grievances to concerned DGNO/SGNO in case the grievance doesn’t fall
+under his/her jurisdiction
+g. Submitting reports and records
+4.5.2 State Grievance Nodal Officer (SGNO)
+
+SGNO is a person who is nominated by SHA to address the grievances at state levelunder PM-JAY. The roles and responsibilities of the SGNO are as listed below:
+a. Addressing grievances of stakeholders directly or through SGRC within the
+timeframe defined
+b. Giving priority to the grievances that are emergent nature
+c. Ratifying the actions taken against the grievances by placing them in the SGRC
+from time to time
+d. Forwarding the grievances which are received at state level to concerned DGNO for
+
+GRIEVANCE REDRESSAL SYSTEMfurther actions
+e. Referring grievances to convener of SGRC
+f. Forwarding grievances to concerned SGNO in case the grievance doesn’t fall under
+his/her jurisdiction
+g. Monitoring of the grievances and ensuring grievances are resolved within the time
+frame at State & District Level
+h. Submitting reports and records
+4.5.3 National Grievance Nodal Officer (NGNO)
+NGNO is a person who is nominated by NHA to address the grievances at National
+level under PM-JAY The roles and responsibilities of the NGNO are as listed below
+a. Forwarding the grievances received at national level to concerned SGNO
+for the action
+b. Referring grievances to convener of NGRC
+
+c. Monitoring of the grievances and ensuring grievances are resolved as per the timeframe,
+d. Submitting reports and records
+5. Meeting Schedule of Committees
+The DGRC & SGRC meeting should be conducted every month on a specific day on regular
+basis.  State can decide a particular date/day based on the convenience and availability of the
+members of the committee.
+SAA meetings shall be convened within one week of receiving the grievances before SAA.
+5.1 For inter-state / Union Territory (Portability) cases:
+a. All grievances of beneficiaries against the hospital shall be referred to the DGNO of
+the State/UT where beneficiary is availing benefits of PM-JAY
+
+b. Inter-state beneficiary cases should be solved jointly by the concerned DGRC and SGRCof two respective states/ UTs. They shall coordinate amongst themselves, if required,
+to redress the grievance
+c. All Empaneled Health Care Provider grievances against the Insurer / SHA shall be
+referred to the SGRC of both parent State/UT and State/UT where the claim is raised
+by State/UT. The SGRCs of both the states shall coordinate amongst them, if required,
+to redress the grievance
+
+GRIEVANCE REDRESSAL SYSTEM6. LODGING AND REGISTRATION OF GRIEVANCES
+6.1 Any grievance under AB PM-JAY can be raised through following means:
+Online Mode
+Through online
+grievance redressal portal
+– CGRMS
+of AB PM-JAY
+(https://cgrms.pmjay.gov.in)
+Offline Mode
+• AB PM-JAY Call Centre helpline no. 14555
+• Through letter, telephone, e-mail, and fax to the official addresses of the SHA
+or the NHA
+• Directly with the DGNO of the district where such stakeholder is located or
+where such grievance has arisen
+6.2 Details of all complaints shall be entered in CGRMS portal by the concerned officer.
+a. For all grievances received by the call center, call center executives shall register the
+
+details of the grievance in the CGRMS portal as per defined format. The grievancewill appear in the login of concerned Grievance Nodal Officer.
+b. The DGNO shall enter the particulars of the grievances which are received in the form
+of letter, telephonic, fax or direct walk-in cases on the CGRMS portal established by
+the NHA.
+c. The CGRMS will automatically generate a Unique Grievance Number (UGN),
+categorize the nature of the grievance and an auto SMS sent to the stakeholder as per
+the Grievance Redressal Matrix (Annexure 1)
+6.3 Special powers of the authorities: The SHA, SGRC and/ or the SAA shall have the
+
+authority to initiate Suo moto proceedings and file a grievance on behalf of itself and / orPM-JAY Beneficiaries under the Scheme. They can also take cognizance of reports in
+social media and other public forums for further investigation and redressal.
+
+GRIEVANCE REDRESSAL SYSTEM7 GRIEVANCE REDRESSAL MECHANISMS
+Upon receipt of a grievance, the DGNO/SGNO shall try to resolve the same directly
+through his/her own efforts and coordination with concerned parties. However, if he/she
+is unable to resolve the grievance at his/her level, the same may be put up before the
+concerned Grievance redressal committee.
+Each grievance irrespective of the mode of receipt shall be first registered on the CGRMS
+portal with a unique grievance number for tracking till closure.  Following process shall
+be followed:
+7.1    Process for Redressal directly by DGNO/SGNO
+While redressing the grievances,
+
+a. The grievance officer should analyze the case and seek explanation from thestakeholder/s against whom the grievance is being lodged by sending a show cause
+notice
+b. The stakeholder against whom a grievance has been lodged must send its comments/
+response to the aggrieved party with copy to the DGNO/SGNO within 7 days. If the
+grievance is not addressed within such 7 days period, the DGNO/SGNO shall send a
+reminder for redressal within a time period specified by the DGNO/SGNO
+c. The DGNO/SGNO shall try to resolve the grievance by forwarding the same to Action
+Taking Authority (ATA). If the grievance is not resolved or comments are not received
+
+within 15 days of the grievance, then the matter may be referred to relevant GrievanceRedressal Committee
+d. If the DGNO/SGNO is satisfied that the comments/ response received from the
+stakeholder satisfactorily addresses the grievance(s), then the DGNO/SGNO shall
+communicate this to the aggrieved party by Letter/e-mail/SMS/telephone and update
+on the CGRMS portal.
+e. If the DGNO/SGNO is not satisfied with the comments/ response received or
+if no comment/ response is received from the stakeholder despite a reminder,
+then the DGNO/SGNO shall refer such grievance to the Convener of the
+relevant Grievance Redressal Committee
+
+GRIEVANCE REDRESSAL SYSTEM7.2 Process of Redressal through the Relevant Grievance Committee
+All the cases which are appealed against the orders of grievance officer must be
+placed before   the concerned grievance redressal committee.
+a. The Convener of the relevant Grievance Redressal Committee shall place the
+grievance before the Grievance Redressal Committee for its decision at its next
+meeting
+b. Each grievance shall be addressed by the relevant Grievance Redressal
+Committee within a period of 30 days of the receipt of the grievance.
+Depending on the urgency of the case, the Grievance Redressal Committee
+may decide to meet earlier for a speedier resolution of the grievance
+
+c. The relevant Grievance Redressal Committee shall arrive at a logical decisionwithin 30 days of receipt of the grievance. All such decisions shall be based on
+the principles of natural justice (including giving the parties a reasonable
+opportunity to be heard) and be taken by majority vote of its members present
+d. If any party to a grievance is not satisfied with the decision of the relevant
+Grievance Redressal Committee, it may appeal against the decision within 30
+days to the higher Grievance Redressal Committee or other authority having
+powers of appeal
+e. If an appeal is not filed within 30-day period, the aggrieved party shall lose its
+
+right to appeal, and the decision of the original Grievance Redressal Committeeshall be final and binding
+f. A Grievance Redressal Committee or any other authority having powers of
+appeal shall dispose of an appeal within 30 days of receipt of the appeal. Such
+decision shall be given after following the principles of natural justice,
+including giving the parties a reasonable opportunity to be heard. The decision
+of the Grievance Redressal Committee or other authority having powers of
+appeal shall be final and binding
+
+GRIEVANCE REDRESSAL SYSTEM8  COMPLIANCE WITH ORDERS OF GRIEVANCE REDRESSAL COMMITTEES
+8.1 Parties against whom an order has been issued by any Grievance Redressal Committee,
+shall ensure that all orders are fully complied with and executed within not more than 30
+calendar days of the issuance of the order unless such order has been stayed on appeal
+8.2 If the party against whom such orders have been issued, fails to comply with the order
+within 30-day period or a time period set forth in the Grievance Redressal Committee
+Order, the defaulting party shall    be liable to pay penalty as described under the contract
+between the parties
+
+8.3 The defaulting party shall be liable to pay the levied penalty to the SHA within 15 daysof receiving a written notice from the SHA. All such payments have to be made by the
+defaulting party in the manner as specified by the SHA in the notice issued
+8.4 On failure to pay penalty, the defaulting party shall be liable to pay a penal interest at the
+rate of one percent of the total outstanding penalty amount for every 15 days for which
+such penalty amount remains unpaid
+8.5 For delays in compliance to the order beyond three months of the date of its issue, the
+SHA/ NHA shall have the right to seek recourse to available legal remedies all costs of
+which shall be borne by the defaulting party
+
+9 Mode of CommunicationThe decision made by the grievance officer or the grievance committee must be
+communicated to all the parties as soon as possible in writing and in addition, if possible,
+by e-mail. In addition, a phone call should also be made to a beneficiary informing him
+about the redressal of the grievance.
+*System generated SMS shall be automatically sent to aggrieved party through CGRMS
+portal about the status of the grievance.
+
+GRIEVANCE REDRESSAL SYSTEM10 AUTO-ESCALATION OF GRIEVANCES
+The grievances which are not resolved within the prescribed TAT or if no action is taken
+by the concerned officer then such cases will be automatically escalated to the higher
+authority.
+E.g., if DGNO has not taken any action within 15 days, the case will be escalated to the
+SGNO.
+11 REPORTING
+11.1 CGRMS portal generates various reports like total grievance count, age wise
+pendency, closure report, SOS Grievances
+11.2 Such reports may be utilized by grievance redressal officials in planning and
+decision making
+12 MONITORING
+12.1 The SHA shall be responsible for monitoring the functioning of the CGRMS
+within the state
+
+12.2 Some of the key indicators for tracking the efficiency of GRS system shall be:a. Resolution turn-around time ratio
+Indicator
+Resolution turn-around time ratio
+Description
+Grievances that are resolved within the prescribed time
+frame
+Numerator (N)
+Number of grievances resolved within the prescribed time
+frame
+Denominator (D)
+Total number of grievances registered
+Calculation
+(N /D) *100
+Frequency of
+measurement
+Monthly
+Acceptable Threshold
+(benchmark)
+98% or more
+Table 1 Turn Around Ratio
+
+GRIEVANCE REDRESSAL SYSTEMb. Escalation ratio
+Indicator
+Escalation ratio
+Description
+Grievances that needed escalation
+Numerator (N)
+Number of GRC orders that were appealed against
+Denominator (D)
+Total number of GRC orders issued
+Calculation
+(N /D)*100
+Frequency of
+measurement
+Monthly
+Acceptable Threshold
+(benchmark)
+10 % or less
+Table 2 Escalation Ratio
+12.3 These indicators are illustrative and may evolve and be amended by the NHA and / or
+the SHA from time to time.
+12.4 The NHA shall provide overall supervision and monitoring of the implementation of
+the CGRMS across all states. This may include site visits, and internal and third-party
+process audits.
+
+12.5 Monitoring of time series grievance data may also provide insights into theoverall performance of the AB PM-JAY.  Some of these indicators could be:
+a. Percentage of grievances resolved through Direct Channel
+b. Percentage of grievances related to out-of-pocket payments
+c. Percentage of grievances related to quality of services
+d. Percentage of grievances related to denial of services
+e. Percentage of beneficiary grievances related to delays in receiving services
+f. Percentage of grievances from empaneled providers related to delays in receiving
+claims reimbursements
+g. Number of grievances related to portability benefits
+
+h. Percentage of provider grievances related to portability claims12.6 Analyses of these grievance related indicators over time and across states (may be even
+across districts) is likely to provide useful insights for course corrections and
+strengthening the implementation mechanisms under the AB PM-JAY.
+
+GRIEVANCE REDRESSAL SYSTEMAnnexure 1
+GRIEVANCE REDRESSAL MATRIX
+Sl.
+No
+Aggrieved
+party
+Grievance
+against
+Indicative nature of grievances
+Approach
+authority
+Turn- around
+time
+Grievance escalated to Committees (if
+either party is not satisfied)
+Beneficiary
+Empaneled
+Healthcare
+providers
+SOS (Emergency) Grievances
+(Grievances Registered during the
+period of hospitalization)
+• Denied treatment under PM-JAY     by
+empaneled healthcare provider at the
+time of admission
+• Demanding money for the services
+which are available for free in the
+scheme
+• Not returning PM-JAY card at the
+time of discharge
+• Prescribed
+medicines
+and
+diagnostics
+from
+outside,
+which are available for free in
+the scheme
+
+• Non-availability of Arogya Mitra• Non-Cooperation by Arogya
+Mitra.
+• Misconduct by Hospital Staff
+SGNO
+6 working hours
+(if the case is  not
+resolved within
+TAT, CEO of
+SHA
+will be alerted
+through system
+generated Email)
+• SGRC decision shall be final &
+binding
+
+GRIEVANCE REDRESSAL SYSTEM• Charge money for printing
+Ayushman card.
+Beneficiary
+Empaneled
+Healthcare
+providers
+Non-SOS (Non-Emergency)
+Grievances (Grievances Registered
+before admission or after discharge of
+the patient)
+• Denied treatment under AB PM-JAY
+• Money sought for treatment,
+despite sum insured under AB PM-
+JAY cover being available
+• Demanding more than Package
+Rate/ Pre-Authorized Amount
+• AB PM-JAY Ayushman Card
+retained by Empaneled Health Care
+Provider
+• Free medicines & Consultation not
+provided during follow-up
+• Ayushman Card not provided
+despite eligibility
+• Poor Quality of Treatment
+• Poor facilities
+DGNO
+15 days
+(If no response
+received
+by
+stakeholder
+within 7 days of
+
+showcause
+notice,
+DGNO
+should
+send
+reminder)
+• DGRC (Within 30 days of the
+DGNO decision)
+• If either party is not satisfied with
+DGRC decision, then they can appeal
+to SGRC within 30 days
+• SGRC shall have 30 days to
+resolve the grievance.
+• SGRC decision shall be final &
+binding
+
+GRIEVANCE REDRESSAL SYSTEM• Non-availability of Arogya Mitra
+• Non-Cooperation of Arogya
+Mitra
+• Misconduct by Hospital Staff
+Beneficiary
+Insurance
+company /
+TPA
+• Demanding money for approval
+of pre-authorization
+• Misconduct by IC/ISA/TPA
+representative
+DGNO /
+SGNO
+15 days of
+receipt of
+grievance for
+DGNO/SGNO
+30 days of
+receipt of
+grievance for
+DGRC
+• If grievance is not resolved by
+DGNO/SGNO within 15 days, case
+shall be referred to DGRC/SGRC.
+• If either party is not satisfied with
+DGNO’s/SGNO’s decision, then they
+can appeal to DGRC/SGRC within 30
+days of the DGNO/SGNO order
+• DGRC/SGRC shall have 30 days to
+resolve the grievance.
+• If either party is not satisfied with
+
+DGRC decision, then they can appealto SGRC within 30 days
+• SGRC shall have 30 days to
+resolve the grievance.
+• SGRC decision shall be final and
+binding
+Beneficiary
+Common
+Service
+Centre (CSC)
+• Demanding extra money (above the
+approved cost of Rs. 30) for issuing
+Ayushman card
+• Card issued to another family
+• Card not provided to beneficiary
+• Poor Quality of Service
+DGNO
+15 days of
+receipt of
+grievance for
+DGNO
+30 days of
+receipt of
+• If either party is not satisfied with
+DGNO’s decision, then they can
+appeal to DGRC within 30 days of the
+DGNO
+• DGRC shall have 30 days to
+resolve the grievance.
+
+GRIEVANCE REDRESSAL SYSTEMgrievance for
+DGRC
+• If either party is not satisfied with
+DGRC decision, then they can appeal
+to SGRC within 30 days
+• SGRC shall have 30 days to
+resolve the grievance.
+• SGRC decision shall be final and
+binding
+Beneficiary
+District
+authorities
+• Grievance not addressed by the
+concerned officer
+SGNO
+15 days of
+receipt of
+grievance for
+SGNO
+30 days of
+receipt of
+grievance for
+SGRC
+• If either party is not satisfied with
+DGRC order, they shall approach the
+SGRC
+• Decision of SGRC on such cases
+shall be final and binding.
+
+GRIEVANCE REDRESSAL SYSTEMHealth Care
+Provider
+Beneficiary
+• Misconduct or harassment by the
+beneficiary
+• Any other
+DGNO
+15 days of
+receipt of
+grievance for
+DGNO
+30 days of
+receipt of
+grievance for
+DGRC
+• If grievance is not resolved by DGNO
+within 15 days, case shall be referred
+to DGRC.
+• If either party is not satisfied with
+DGNO’s decision, then they can
+appeal to DGRC within 30 days of
+the DGNO order
+• DGRC shall have 30 days to resolve
+the grievance.
+• If either party is not satisfied with
+DGRC decision, then they can appeal
+to SGRC within 30 days
+• SGRC shall have 30 days to resolve
+• the grievance
+
+GRIEVANCE REDRESSAL SYSTEM• Decision of the SGRC shall be final
+and binding.
+Health Care
+Provider
+Insurance
+Company /
+ISA / TPA
+/SHA
+• Claims rejected by Insurer/SHA in
+full or partial claim amount not
+paid
+• Demanding Money for Claim
+Settlement
+• Misconduct by ISA/TPA/ SHA
+Representatives
+• Non-cooperation by Insurer/ISA/
+SHA
+• Delay in claim payment
+DGNO
+/SGNO/
+SAA
+15 days of
+receipt of
+grievance for
+DGNO/SGNO
+/SAA
+30 days of
+receipt of
+grievance for
+DGRC
+30 days of
+receipt of
+grievance for
+SAA
+• If either party is not satisfied with
+DGNO’s decision, then they can
+appeal to DGRC within 30 days of
+the DGNO order
+• DGRC shall have 30 days to resolve
+the grievance.
+
+• If either party is not satisfied withDGRC decision, then they can appeal
+to SGRC within 30 days
+•  SGRC shall have 30 days to resolve
+the grievance
+• If either party is not satisfied with
+SGRC order, they shall approach
+the SAA within 30 days of the
+SGRC order.
+• The decision of SAA shall be final
+and binding.
+Health Care
+Provider
+Insurer/ISA/
+D istrict
+Empanelment
+• Demanding money for
+empanelment
+• Not empaneled despite meeting all
+the criteria
+SGRC
+30 days of
+receipt of
+grievance
+• SGRC shall have 30 days to resolve
+the grievance
+• If either party is not satisfied with
+• SGRC order, they shall approach
+
+GRIEVANCE REDRESSAL SYSTEMCommittee
+(DEC)
+• SAA within 30 days of the SGRC
+order.
+• The decision of SAA shall be final
+and binding.
+Health Care
+Provider
+State
+Empanelment
+Committee
+• Empanelment/ Suspension/ De-
+empanelment
+SGRC
+30 days of
+receipt of
+grievance
+• SGRC shall have 30 days to
+resolve the grievance
+• If either party is not satisfied with
+the SGRC order, they shall approach
+the SAA within 30 days of the
+SGRC order.
+• Decision of the SAA shall be final
+and binding.
+Insurance
+Company /
+ISA / TPA
+SHA
+• Premium not received within time
+prescribed
+• Fees for Service not paid as per the
+MOU
+• AB PM-JAY Beneficiary
+Database not updated
+SGRC
+30 days of
+receipt of
+grievance
+
+• If either party is not satisfied withSGRC order, they shall approach the
+SAA within 30 days of the SGRC
+order.
+• If either party is not satisfied with
+SAA order, they shall approach
+NGRC within 30 days of the SAA
+order.
+• Decision of the NGRC shall be final
+and binding.
+
+GRIEVANCE REDRESSAL SYSTEMCommon
+Service
+Centre-VLE
+IC/ISA/SHA
+• Non-Approval of Beneficiary
+Registration despite all records
+provided
+• Not Providing Technical
+Support
+• Demanding Money for approval
+of Ayushman card
+SGNO /
+SGRC
+15 days of
+receipt of
+grievance
+for SGNO
+30 days of receipt
+of grievance for
+SGRC
+• SGRC shall have 30 days to resolve
+the grievance
+• If either party is not satisfied with
+SGRC order, they shall approach
+SAA within 30 days of the SGRC
+order.
+• Decision of the SAA shall be final
+and binding.
+
+GRIEVANCE REDRESSAL SYSTEMAnnexure 2
+DEFINITIONS
+AB PM-JAY Beneficiary refers to all beneficiaries entitled to receive benefits under AB PM-
+JAY
+Action Taking Authority or the ATA Any authority, which may include an individual or an
+organization, that has the mandate and the responsibility under AB PM-JAY to take action on
+the subject matter of the grievance filed by any aggrieved party
+Appellate Authority shall mean the State Grievance redressal Committee (SGRC) or State
+Appellate Authority (SAA) or National Grievance Redressal Committee (NGRC) as the case
+may be that has the authority to accept, hear and adjudicate on appeals against the relevant
+GRC orders
+
+Central Grievance Redressal Management System or the CGRMS refers to system set bythe National Health Agency for registering, processing, managing, and monitoring redressing
+all grievances under the AB PM-JAY
+Direct Channel refers to the mode of grievance redressal where the concerned District
+Grievance Nodal Officer (DGNO) or the State Grievance Nodal Officer (SGNO) redresses
+the grievance by directly getting in touch with the concerned stakeholders and / or the Action
+Taking authority (ATA) without having to route the matter through one of the Grievance
+Redressal Committees (GRC)
+Empaneled Health Care Provider refers to all public or private health care providers that
+
+have been empaneled by any State Health Agency (SHA) in the country or by any InsuranceCompany on behalf of a SHA for providing cashless hospitalization benefits under the AB
+PM-JAY
+GRC Channel refers to the mode of grievance redressal where the grievance is redressed by
+one of the Grievance Redressal Committees (GRC) set up under the AB PM-JAY
+
+GRIEVANCE REDRESSAL SYSTEMGrievance: A Grievance/complaint refers to any communication that expresses
+dissatisfaction about an action or lack of action, about unfair/wrongful treatment, about the
+standard of service/deficiency of service that may violate any norms, provisions or
+guidelines laid down for AB PM-JAY or asks for remedial action.
+Grievance Redressal means the mechanisms for receiving, registering, and addressing
+grievances received from any of the aggrieved stakeholder.
+Grievance Redressal Committee (GRC) refers to committees set up by the SHA or the NHA
+for redressing all stakeholder grievances under the AB PM-JAY
+
+GRIEVANCE REDRESSAL SYSTEMAnnexure 3
+Abbreviations and Acronyms
+AB PM-JAY Ayushman Bharat Pradhan Mantri Jan Arogya Yojana
+ATA
+Action Taking Authority
+CGRMS
+Central Grievance Redressal Management System
+CMO
+Chief Medical Officer
+DEC
+District Empanelment Committee
+DGNO
+District Grievance Nodal Officer
+DGRC
+District Grievance Redressal Committee
+GOI
+Government of India
+GR
+Grievance Redressal
+GRC
+Grievance Redressal Committee
+ISA
+Implementation Support Agency
+MOHFW
+Ministry of Health and Family Welfare
+NGNO
+National Grievance Nodal Officer
+NGRC
+National Grievance Redressal Committee
+NHA
+National Health Authority
+SAA
+State Appellate Authority
+SEC
+State Empanelment Committee
+SGNO
+
+State Grievance Nodal OfficerSGRC
+State Grievance Redressal Committee
+SHA
+State Health Agency
+TPA
+Third Party Administrators

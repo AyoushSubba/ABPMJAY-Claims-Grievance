@@ -1,4 +1,4 @@
-from claim_model import Rule
+from claim_model import Rule, EvaluationResult
 rejection_rules={
     "R01": Rule(
         cause="Example 1",
@@ -31,13 +31,30 @@ def get_rules(rejection_code):
    
 def evaluate_claim(rejection_code):
     rule=get_rules(rejection_code)
-    if rule is None:
-        return {
-            "valid": False,
-            "rule": None
-        }
-    return {
-        "valid": True,
-        "rule": rule
-    }
+    if not is_rule_valid(rule):
+        return EvaluationResult(
+            valid=False,
+            rule=None
+        )
+    return EvaluationResult(
+        valid=True,
+        rule=rule
+    )
 
+def is_rule_valid(rule):##if everything is present return true , if something is miss return false
+    if rule is None:
+        return False
+
+    if not rule.cause:
+        return False
+
+    if not rule.action:
+        return False
+
+    if not rule.grievance_path:
+        return False
+
+    if rule.deadline_days<0:
+        return False
+
+    return True

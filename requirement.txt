@@ -1,0 +1,5 @@
+pydantic Version= 2.13.5
+pymupdf Version= 1.28.2
+sentence-transformers= 6.0.1
+scikit-learn= 1.9.1
+torch= 2.14.0

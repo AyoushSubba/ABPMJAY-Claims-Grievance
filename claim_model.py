@@ -9,3 +9,6 @@ class Rule(BaseModel):
     action:str
     grievance_path:str
     deadline_days:int
+class EvaluationResult(BaseModel):
+    valid: bool
+    rule: Rule | None
