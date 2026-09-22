@@ -1,4 +1,4 @@
-import pymupdf
+import pymupdf # cat /etc/os-release
 import json
 
 
