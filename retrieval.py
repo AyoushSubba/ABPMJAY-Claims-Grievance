@@ -7,28 +7,34 @@ model=SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 with open(input_file, "r") as f:
     chunks=json.load(f)
 
-query="What happens if my grievance is not resolved on time?"
 
-query_embedding=model.encode(query)
+def retrieve(query, top_k=5):
+    query_embedding = model.encode(query)
 
-for chunk in chunks:
-    chunk_embedding=chunk["embedding"]
+    for chunk in chunks:
+        chunk_embedding = chunk["embedding"]
 
-    similarity=cosine_similarity(
-        [query_embedding],
-        [chunk_embedding]
+        similarity = cosine_similarity(
+            [query_embedding],
+            [chunk_embedding]
+        )[0][0]
+
+        chunk["similarity"] = similarity
+
+    ranked_chunks = sorted(
+        chunks,
+        key=lambda chunk: chunk["similarity"],
+        reverse=True
     )
-    print("This is the similarity ok!!!",similarity)
-    chunk["similarity"]=similarity
 
-chunks.sort(
-    key=lambda chunk: chunk["similarity"],
-    reverse=True
-)
+    return ranked_chunks[:top_k]
+
+query=input("Enter Your Query: ")
+results=retrieve(query)
 # Display top 5
 print("\nTop 5 Relevant Chunks\n")
 
-for i, chunk in enumerate(chunks[:5], start=1):
+for i, chunk in enumerate(results, start=1):
 
     print(f"--- Result {i} ---")
     print("Similarity:", chunk["similarity"])
