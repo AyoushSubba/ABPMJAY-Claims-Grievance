@@ -71,7 +71,7 @@ document=pymupdf.open(PDF_FILE)
 all_chunks=[]
 for page_number, page in enumerate(document,start=1):
     page_text=page.get_text()
-    cleaned_text=clean_text(page_text)
+    cleaned_text=clean_text(page_text) 
     page_chunks=create_chunks(cleaned_text,page_number)
     all_chunks.extend(page_chunks)
 
